@@ -27,4 +27,4 @@
 
 <p><img width='300' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linikerunk&show_icons=true&theme=dark&locale=en&layout=compact" alt="linikerunk" /></p>
 <p><img width='360' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linikerunk&theme=dark" alt="linikerunk" /></p>
-<p>&nbsp;<img width='360' align="center" src="https://github-readme-stats.vercel.app/api?username=linikerunk&show_icons=true&theme=dark&locale=en" alt="linikerunk" /></p>
+<!-- <p>&nbsp;<img width='360' align="center" src="https://github-readme-stats.vercel.app/api?username=linikerunk&show_icons=true&theme=dark&locale=en" alt="linikerunk" /></p> -->
