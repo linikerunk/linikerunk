@@ -2,9 +2,10 @@
 <hr>
 <h3 align="center">Full-stack developer</h3>
 
-- 🔭 I’m currently working on [Financial Software](https://github.com/wpensar)
+- 🔭 I’m currently working on [São Paulo Prefeitura]([(https://github.com/prefeiturasp)])
 - 💬 Ask me about ... <b>Python|Django</b>
-- 🌱 I’m currently learning **ReactJs**
+- 🧡 I'm love Python
+- 🌱 I'm love build application in **ReactJs**
 - 📫 How to reach me **linikerenem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
