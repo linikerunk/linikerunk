@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on [São Paulo Prefeitura](https://github.com/prefeiturasp)
 - 💬 Ask me about ... <b>Python|Django</b>
-- 🧡 I'm love Python
-- 🌱 I'm love build application in **ReactJs**
+- 🧡 I love Python
+- 🌱 I love build application in **ReactJs**
 - 📫 How to reach me **linikerenem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
