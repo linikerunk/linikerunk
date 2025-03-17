@@ -2,7 +2,7 @@
 <hr>
 <h3 align="center">Full-stack developer</h3>
 
-- 🔭 I’m currently working on [São Paulo Prefeitura](https://github.com/prefeiturasp)
+- 🔭 I’m currently looking for opportunities
 - 💬 Ask me about ... <b>Python|Django</b>
 - 🧡 I love Python
 - 🌱 I love build application in **ReactJs**
